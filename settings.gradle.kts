@@ -11,3 +11,4 @@ plugins {
 
 rootProject.name = "alerticorn-example-projects"
 include("kotlin-junit-slack-and-discord")
+include("java-junit")
